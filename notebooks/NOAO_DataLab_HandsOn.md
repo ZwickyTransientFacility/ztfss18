@@ -15,3 +15,8 @@ through several notebooks (Data Lab basics, and specific science
 cases). You don't have to install anything, we'll do everything in the
 Data Lab Jupyter environment in the browser. Just have your laptop and
 Data Lab account ready.
+
+If you are on Slack, join our Data Lab Demos channel for live
+questions, problems, solutions (don't be shy, just post away!):
+
+https://bit.ly/2Jbuzxe
